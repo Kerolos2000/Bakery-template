@@ -5,6 +5,9 @@
   box-shadow: none;
   outline: none;
 }
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Roboto";
 }
