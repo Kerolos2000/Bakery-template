@@ -273,6 +273,7 @@ p {
 }
 #About .container .row .HomeText p {
   color: #9e9e9e;
+  width: 100%;
 }
 #About .container .row .HomeText .allIcons {
   width: 100%;
