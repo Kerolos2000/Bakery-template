@@ -45,14 +45,7 @@ body {
 .row div {
   overflow-x: auto;
 }
-.row div p {
-  width: 80%;
-}
-@media (max-width: 991px) {
-  .row div p {
-    width: 100%;
-  }
-}
+
 
 .btn {
   box-shadow: none;
